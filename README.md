@@ -2,9 +2,9 @@
 
 ## About
 
-Part of experiments for our paper [https://openreview.net/forum?id=io1XSRtcO8](_The Expressive Power of Path based Graph Neural Networks_ (ICML 2024)).
+Part of experiments for our paper [_The Expressive Power of Path based Graph Neural Networks_ (ICML 2024)](https://openreview.net/forum?id=io1XSRtcO8).
 
-Please find the main part of the implementation [](here).
+Please find the main part of the implementation [here](todo).
 
 ## Usage
 
