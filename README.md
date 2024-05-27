@@ -13,10 +13,10 @@ Tested with Python 3.11.3.
 To install requirements:
 ```pip install -r requirements.txt```
 
-For EXP with path length 5:
+Run PAIN for EXP with path length 5:
 ```python -m src.synthetic.iso -d EXP -l 5```
 
-For SR with path length 4 and marking neighbors:
+Run PAIN for SR with path length 4 and marking neighbors:
 ```python -m src.synthetic.iso -d SR -l 4 -m```
 
 If you use an IDE, make sure that the working directory is the root of the project.

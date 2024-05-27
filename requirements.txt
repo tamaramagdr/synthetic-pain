@@ -1,0 +1,5 @@
+torch==2.0.1
+torch-geometric==2.3.1
+networkx==3.1
+pytorchtools==0.0.2
+igraph==0.10.8
